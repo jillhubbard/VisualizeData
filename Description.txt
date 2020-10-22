@@ -1,0 +1,14 @@
+Dataset:  Household Income Distribution by State.xlsx
+
+Source:  https://data.world/makeovermonday/2018-w-3-u-s-household-income-distribution-by-state/
+
+Description:  U2018-w-3-u-s-household-income-distribution-by-state
+
+Variable/Columns
+
+COLUMN NAME		TYPE
+year			year
+state			string
+income_level		string
+percent_of_total	decimal
+number_of_households	integer
